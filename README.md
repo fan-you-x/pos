@@ -1,5 +1,6 @@
 # Multilingual Smart Point-of-Sale (POS) System
-
+## POS System Source Code
+   https://www.xunfengshouyin.com
 ## Comprehensive Overview
 ![System in Action](/image_1.png)
 ![System in Action](/image_2.png)
