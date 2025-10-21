@@ -1,11 +1,11 @@
 # Multilingual Smart Point-of-Sale (POS) System
 
 ## Comprehensive Overview
-![System in Action](/imaeg_1.png)
-![System in Action](/imaeg_2.png)
-![System in Action](/imaeg_3.png)
-![System in Action](/imaeg_4.png)
-![System in Action](/imaeg_5.png)
+![System in Action](/image_1.png)
+![System in Action](/image_2.png)
+![System in Action](/image_3.png)
+![System in Action](/image_4.png)
+![System in Action](/image_5.png)
 ### System Overview
 This system is an all-in-one, multilingual smart Point-of-Sale solution designed for modern retail, hospitality, and service industries. By leveraging a powerful technology stack and user-centric design, we empower businesses to operate seamlessly in multilingual environments, significantly enhance front-end checkout efficiency, and gain deeper back-office management insights to drive growth.
 
